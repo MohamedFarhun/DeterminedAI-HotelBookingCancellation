@@ -18,7 +18,7 @@ Cluster-backed notebooks: Experiment directly in a cluster-backed colab notebook
 
 Experiment cooperation: Automatically track the configuration and environment for each of your experiments, promoting repeatability and collaboration among teams.
 
-## How we built if
+## How we built it
 
 We used determinedAI platform and colab notebook to cluster our project.We used python for coding and some machine learning and deep learning algorithms to train and test our project.
 
