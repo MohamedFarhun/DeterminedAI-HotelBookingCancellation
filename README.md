@@ -8,7 +8,7 @@ Distributed training with determined AI:- You may quickly distribute model train
 ## What it does
 The code explains how to utilise Distributed Training with Determined AI to train a deep neural network on the dataset. The training function distributes the training across many GPUs using the Determined AI library and the TensorFlow backend.
 
-##Advantages of determined ai
+## Advantages of determined ai
 
 Cluster management: Using your own environment that scales automatically for your on-demand workloads, you can automatically manage accelerators (such as GPUs) on-premise or in cloud VMs. Depending on your needs, Determined can run in either AWS or GCP, so switching is simple. 
 Containerization: Develop and train models in customizable containers, which enable simple and consistent dependency management throughout the model development lifecycle. 
@@ -19,7 +19,7 @@ Experiment cooperation: Automatically track the configuration and environment fo
 
 We used determinedAI platform and colab notebook to cluster our project.We used python for coding and some machine learning and deep learning algorithms to train and test our project.
 
-##Problem statement and solutions
+## Problem statement and solutions
 
 The management team of the hotel determined that the problem of anticipating and managing reservation cancellations necessitates an urgent remedy. Booking cancellations have an impact on the hotel's revenue as well as its ability to operate efficiently. This project's objectives are to conduct an exploratory data analysis to identify the characteristics of consumers who cancel and to identify a pattern in cancelled bookings using DeterminedAI.Developed a classification machine learning model with an accuracy score of 0.75 to 0.9 to forecast cancellation with the help of determinedAI
 
