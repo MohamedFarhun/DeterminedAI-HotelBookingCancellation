@@ -11,8 +11,11 @@ The code explains how to utilise Distributed Training with Determined AI to trai
 ## Advantages of determined ai
 
 Cluster management: Using your own environment that scales automatically for your on-demand workloads, you can automatically manage accelerators (such as GPUs) on-premise or in cloud VMs. Depending on your needs, Determined can run in either AWS or GCP, so switching is simple. 
+
 Containerization: Develop and train models in customizable containers, which enable simple and consistent dependency management throughout the model development lifecycle. 
+
 Cluster-backed notebooks: Experiment directly in a cluster-backed colab notebook, so you may exploit your shared cluster accelerators in a more versatile notebook environment. 
+
 Experiment cooperation: Automatically track the configuration and environment for each of your experiments, promoting repeatability and collaboration among teams.
 
 ## How we built if
@@ -34,6 +37,6 @@ The code achieved high accuracy on the validation set and demonstrated the effic
 
 Building this code taught us how crucial effective distributed training is for massive machine learning workloads. We also got expertise managing experiments, optimising hyperparameters, and tracking training progress using the Determined AI platform and accompanying tools. We learnt how to work with TensorFlow as a backend for distributed training, and how to balance memory and computation requirements while working with huge datasets. Overall, we learned a lot about the difficulties and possibilities of deep learning at scale.
 
-## What's next for hot
+## What's next for HotelBookingCancellation-DeterminedAI
 
 The platform could be further optimised for distributed training on larger clusters, new features could be added to support more advanced model development and deployment workflows, and training a deep neural network and hyperparameter search strategies to improve performance would be the next steps for Determined AI.
